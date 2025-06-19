@@ -1,47 +1,6 @@
 
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-##ST10487874/PRACTICUM
+
+## ST10487874/PRACTICUM
 ## MY MUSIC APP 
 this project is a simple interactive application where users input a song name, artist name , rate the song out of 5 and aadd comment.(the user input baby, drake,5,love this song) get the context displyed on a very friendly interface. the app adds up the average rating. and is a 2 screens appwhich really really to navigate .
 ## FEATURES
